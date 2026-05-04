@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+sentence-transformers
+scikit-learn
+rapidfuzz
+dateparser
+pydantic
+python-multipart

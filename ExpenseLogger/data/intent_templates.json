@@ -1,0 +1,58 @@
+{
+  "total_spend": [
+    "how much did i spend",
+    "total spending",
+    "total expenses",
+    "how much money did i spend",
+    "how much did i spend yesterday",
+    "how much did i spend today",
+    "how much have i spent",
+    "what did i spend on",
+    "what is my total spend",
+    "what is my total spending",
+    "how much was spent on"
+  ],
+  "list_transactions": [
+    "show my",
+    "show all",
+    "list my",
+    "list all",
+    "show transactions",
+    "show expenses",
+    "display my",
+    "display all",
+    "get all",
+    "find all",
+    "show me all",
+    "show me my"
+  ],
+  "top_category": [
+    "biggest expense",
+    "highest spending category",
+    "most spent on",
+    "what is the highest spending category",
+    "top spending category",
+    "which category did i spend most on",
+    "where do i spend the most",
+    "my biggest expense category"
+  ],
+  "compare_periods": [
+    "compare my spending",
+    "compare expenses",
+    "versus",
+    "vs",
+    "this month vs last month",
+    "compare this month vs last month",
+    "compare my spending this month vs last month",
+    "spending comparison",
+    "how does my spending compare"
+  ],
+  "average_spend": [
+    "average spending",
+    "average expense",
+    "what is my average spend",
+    "average monthly spend",
+    "average amount spent",
+    "mean spending"
+  ]
+}
